@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aghni-page/static/css/main.db62923b.css",
+    "main.js": "/aghni-page/static/js/main.be826b2d.js",
+    "static/js/453.7d64b490.chunk.js": "/aghni-page/static/js/453.7d64b490.chunk.js",
+    "index.html": "/aghni-page/index.html",
+    "main.db62923b.css.map": "/aghni-page/static/css/main.db62923b.css.map",
+    "main.be826b2d.js.map": "/aghni-page/static/js/main.be826b2d.js.map",
+    "453.7d64b490.chunk.js.map": "/aghni-page/static/js/453.7d64b490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.be826b2d.js"
+  ]
+}
